@@ -1,2 +1,10 @@
 # Proyecto-final-equipo-2---ININF-2025---Frontend
-Pendiente: Definir proyecto y alcance
+
+## Ejecucion Local
+
+**Prerequisitos:**  Node.js
+
+1. Instalar las dependencias:
+   `npm install`
+2. Ejecutar la app:
+   `npm run dev`

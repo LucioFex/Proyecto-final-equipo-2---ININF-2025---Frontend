@@ -1,0 +1,5 @@
+{
+  "name": "RAU - Red Académica Universitaria",
+  "description": "An academic social network prototype for students and professors to share content, discuss topics by subject, and build a community. This UI prototype simulates features like posts, voting, communities, and direct messaging.",
+  "requestFramePermissions": []
+}
